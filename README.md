@@ -1,5 +1,5 @@
 Deskripsi Project
-Warung Biru (WarBir) merupakan website informasi dan promosi untuk Warung Biru Pak Supri, sebuah tempat makan yang berlokasi di samping Fakultas Teknik Universitas Jenderal Soedirman (Unsoed), Purbalingga. Website ini dirancang untuk memudahkan mahasiswa dan pengunjung dalam memperoleh informasi mengenai warung, melihat daftar menu beserta harga, melakukan pemesanan, serta mengetahui lokasi dan jam operasional.
+- Warung Biru (WarBir) merupakan website informasi dan promosi untuk Warung Biru Pak Supri, sebuah tempat makan yang berlokasi di samping Fakultas Teknik Universitas Jenderal Soedirman (Unsoed), Purbalingga. Website ini dirancang untuk memudahkan mahasiswa dan pengunjung dalam memperoleh informasi mengenai warung, melihat daftar menu beserta harga, melakukan pemesanan, serta mengetahui lokasi dan jam operasional.
 
 Anggota Kelompok
 1. Richardo Andrian Kurniadi (H1D026079/Richardo210808)
