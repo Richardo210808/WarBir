@@ -446,3 +446,73 @@
       </div>
     </div>
   </section>
+
+  <section id="lokasi" class="py-16 bg-slate-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid md:grid-cols-2 gap-8 items-center">
+        <div>
+          <h2 class="text-xs font-bold uppercase tracking-wider text-blue-600 mb-2">Lokasi & Akses</h2>
+          <h3 class="font-serif-display text-3xl font-bold text-slate-900 mb-4">Mudah Ditemukan di Samping Kampus</h3>
+          <p class="text-slate-600 text-sm leading-relaxed mb-6">
+            Tepat di sisi gerbang barat Fakultas Teknik Unsoed Kampus Purbalingga, akses mudah & area parkir luas. Berada tepat di area strategis mahasiswa, cocok untuk makan siang bareng teman sekampus, nugas santai, maupun kumpul makan malam.
+          </p>
+          <div class="space-y-3 text-sm">
+            <div class="flex items-start gap-3">
+              <span class="font-bold text-slate-900 w-24">Alamat:</span>
+              <span class="text-slate-700">Samping Fakultas Teknik Unsoed, Kalimanah, Purbalingga</span>
+            </div>
+            <div class="flex items-start gap-3">
+              <span class="font-bold text-slate-900 w-24">Telepon / WA:</span>
+              <a href="https://wa.me/6289673320443?text=Halo%20Warung%20Biru%2C%20saya%20ingin%20bertanya%20tentang%20menu%20dan%20reservasi." class="text-blue-600 hover:underline font-semibold">089673320443</a>
+            </div>
+            <div class="flex items-start gap-3">
+              <span class="font-bold text-slate-900 w-24">Jam Buka:</span>
+              <span class="text-slate-700">Senin - jumat: 08:00 - 18:00 WIB</span>
+            </div>
+          </div>
+        </div>
+        <div class="rounded-3xl overflow-hidden border border-slate-200 shadow-sm bg-white p-2">
+          <iframe 
+            src="https://maps.google.com/maps?q=Fakultas+Teknik+Universitas+Jenderal+Soedirman&t=&z=16&ie=UTF8&iwloc=&output=embed" 
+            width="100%" 
+            height="320" 
+            style="border:0; border-radius: 1rem;" 
+            allowfullscreen="" 
+            loading="lazy">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="bg-slate-900 text-slate-400 py-10 border-t border-slate-800">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center text-sm">
+      <p class="text-white font-bold text-lg mb-1">Warung Biru</p>
+      <p class="mb-4 text-xs">Samping Fakultas Teknik Unsoed, Kalimanah, Purbalingga · WhatsApp: 089673320443</p>
+      <p class="text-xs text-slate-500">© 2026 Warung Biru. Seluruh hak cipta dilindungi undang-undang.</p>
+    </div>
+  </footer>
+
+  <script>
+    function handleQuickReservation(e) {
+      e.preventDefault();
+      const name = document.getElementById('res-name').value;
+      const guests = document.getElementById('res-guests').value;
+      const date = document.getElementById('res-date').value;
+      const time = document.getElementById('res-time').value;
+      const notes = document.getElementById('res-notes').value;
+      
+      const text = "*HALO WARUNG BIRU, SAYA INGIN RESERVASI MEJA*\n" +
+        "------------------------------------\n" +
+        "Nama: " + name + "\n" +
+        "Jumlah Orang: " + guests + " Orang\n" +
+        "Tanggal: " + date + "\n" +
+        "Jam Kedatangan: " + time + " WIB\n" +
+        (notes ? ("Catatan: " + notes + "\n") : "") +
+        "------------------------------------\n" +
+        "Mohon konfirmasi meja ya. Terima kasih!";
+        
+      const waUrl = "https://wa.me/6289673320443?text=" + encodeURIComponent(text);
+      window.open(waUrl, '_blank');
+    }
+  </script>
