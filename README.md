@@ -8,7 +8,7 @@
 4.
 
 🎯 Tujuan dan Latar Belakang
-Project ini dibuat sebagai bentuk pemanfaatan teknologi informasi dalam membantu mempromosikan usaha kuliner lokal, khususnya Warung Biru Pak Supri.
+* Project ini dibuat sebagai bentuk pemanfaatan teknologi informasi dalam membantu mempromosikan usaha kuliner lokal, khususnya Warung Biru Pak Supri.
 * Sebagai tempat makan yang berada di sekitar lingkungan kampus, Warung Biru memiliki target pengunjung utama berupa mahasiswa Fakultas Teknik Unsoed. Oleh karena itu, website ini diharapkan dapat menjadi media informasi yang praktis, menarik, dan mudah diakses.
 * Melalui website ini, pengunjung dapat mengenal warung, mengetahui pilihan makanan dan minuman, serta melakukan pemesanan dengan lebih mudah tanpa harus datang langsung untuk mencari informasi.
 
