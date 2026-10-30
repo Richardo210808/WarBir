@@ -59,6 +59,3 @@ Melalui website ini, pengunjung dapat mengenal warung, mengetahui pilihan makana
 2.
 3.
 4.
-Menampilkan jam operasional.
-
-Menyediakan peta lokasi untuk memudahkan pengunjung menemukan warung.
