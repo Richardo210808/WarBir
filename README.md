@@ -55,7 +55,7 @@
      - Menggunakan ekstensi Live Server pada Visual Studio Code untuk menjalankan website melalui server lokal.
 
 🤝 Pembagian Tugas dan Kontribusi Anggota
-1. Richardo Andrian Kurniadi (H1D026079): Membuat bagian homepage, tentang kami, dan lokasi
+1. Richardo Andrian Kurniadi (H1D026079/Ricahrdo210808): Membuat bagian homepage, tentang kami, dan lokasi
 2.
 3.
 4.
