@@ -4,8 +4,8 @@ Warung Biru (WarBir) merupakan website informasi dan promosi untuk Warung Biru P
 Anggota Kelompok
 1. Richardo Andrian Kurniadi (H1D026079/Richardo210808)
 2. 
-3. Afifah Tsaabitah Zulfaa (H1D026060/Afifaahh51)
-4.
+3. Afifah Tsaabitah Zulfaa (H1D026060/Afifaahh)
+4. Aulia Zahra Triani (H1D026056/AuliaZahraTriani)
 
 Tujuan dan Latar Belakang
 - Project ini dibuat sebagai bentuk pemanfaatan teknologi informasi dalam membantu mempromosikan usaha kuliner lokal, khususnya Warung Biru Pak Supri.
@@ -57,5 +57,5 @@ Cara Menjalankan Website Secara Lokal
 Pembagian Tugas dan Kontribusi Anggota
 1. Richardo Andrian Kurniadi (H1D026079/Ricahrdo210808) : Membuat bagian homepage, tentang kami, dan lokasi
 2.
-3. Afifah Tsaabitah Zulfaa (H1D026060/Afifaahh51) : Membuat menu minuman, dan folder Images
-4.
+3. Afifah Tsaabitah Zulfaa (H1D026060/Afifaahh) : Membuat bagian menu minuman, dan folder Images
+4. Aulia Zahra Triani (H1D026056/AuliaZahraTriani) : Membuat bagian reservasi 
