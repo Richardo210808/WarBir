@@ -2,8 +2,8 @@ Deskripsi Project
 - Warung Biru (WarBir) merupakan website informasi dan promosi untuk Warung Biru Pak Supri, sebuah tempat makan yang berlokasi di samping Fakultas Teknik Universitas Jenderal Soedirman (Unsoed), Purbalingga. Website ini dirancang untuk memudahkan mahasiswa dan pengunjung dalam memperoleh informasi mengenai warung, melihat daftar menu beserta harga, melakukan pemesanan, serta mengetahui lokasi dan jam operasional.
 
 Anggota Kelompok
-1. Richardo Andrian Kurniadi (H1D026079/Richardo210808)
-2. Azmi Mishbahuddin Nabil (H1D026064/azmillim16)
+1. Azmi Mishbahuddin Nabil (H1D026064/azmillim16)
+2. Richardo Andrian Kurniadi (H1D026079/Richardo210808)
 3. Afifah Tsaabitah Zulfaa (H1D026060/Afifaahh51)
 4. Aulia Zahra Triani (H1D026056/AuliaZahraTriani)
 
@@ -55,7 +55,7 @@ Cara Menjalankan Website Secara Lokal
      - Menggunakan ekstensi Live Server pada Visual Studio Code untuk menjalankan website melalui server lokal.
 
 Pembagian Tugas dan Kontribusi Anggota
-1. Richardo Andrian Kurniadi (H1D026079/Ricahrdo210808) : Membuat bagian homepage, tentang kami, dan lokasi
-2. Azmi Mishbahuddin Nabil (H1D026064/azmillim16) : Membuat bagian menu makanan dan merancang desain web
+1. Azmi Mishbahuddin Nabil (H1D026064/azmillim16) : Membuat bagian menu makanan dan merancang desain web
+2. Richardo Andrian Kurniadi (H1D026079/Ricahrdo210808) : Membuat bagian homepage, tentang kami, dan lokasi
 3. Afifah Tsaabitah Zulfaa (H1D026060/Afifaahh51) : Membuat bagian menu minuman dan folder Images
 4. Aulia Zahra Triani (H1D026056/AuliaZahraTriani) : Membuat bagian reservasi 
